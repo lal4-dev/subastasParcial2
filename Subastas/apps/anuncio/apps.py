@@ -3,4 +3,4 @@ from django.apps import AppConfig
 
 class AnuncioConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'anuncio'
+    name = 'apps.anuncio'
