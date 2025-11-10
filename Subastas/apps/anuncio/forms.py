@@ -9,7 +9,6 @@ class AnuncioForm(forms.ModelForm):
                   'descripcion',
                   'precioInicial',
                   'imagen',
-                  'fechaPublicacion',
                   'fechaInicio',
                   'fechaFin',
                   'activo',
